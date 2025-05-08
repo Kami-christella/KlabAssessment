@@ -1,7 +1,5 @@
 document.getElementById('readmore').addEventListener('click', function() {
-    // document.getElementById('more').style.display = 'block';
-    // document.getElementById('readmore').style.display = 'none';
-    // document.getElementById('hello').textContent = 'Hello, Kamikazi Christella';
+  
     alert("Hello, Kamikazi Christella");
 });
 
@@ -39,7 +37,7 @@ document.getElementById('userForm').addEventListener('submit', function(e) {
     if (isValid) {
 
         alert('Thank you for contacting Us');
-        // You can proceed with form submission (e.g., send to server)
+       
        
     }
 });
