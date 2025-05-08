@@ -1,3 +1,4 @@
+//for the form validation
 document.getElementById('readmore').addEventListener('click', function() {
   
     alert("Hello, Kamikazi Christella");
